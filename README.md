@@ -18,3 +18,4 @@ tar xf curl-7.64.0.tar.gz
 cd curl-7.64.0
 curl https://raw.githubusercontent.com/sinofool/build-libcurl-ios/master/build_libcurl_dist.sh |bash
 ```
+*Note* - You can use the latest version
